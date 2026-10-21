@@ -62,12 +62,6 @@ DSO is only 0.3 days under its limit, so one slow month would turn it Amber.
 
 The gap is under my 0.5% tolerance, but I have not found its cause.
 
-## Screenshots
-
-![Scorecard](scorecard.png)
-![GL reconciliation](gl_recon.png)
-![Executive summary](exec_summary.png)
-
 ## Tools
 
 Excel, Power Query, PivotTables, SUMIFS.
